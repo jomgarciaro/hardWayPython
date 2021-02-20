@@ -1,0 +1,5 @@
+from sys import argv
+
+s, f = argv
+
+print(f.readline())
